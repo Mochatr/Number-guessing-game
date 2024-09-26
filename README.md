@@ -1,6 +1,7 @@
 # Number Guessing Game
 
-This is a simple command-line interface (CLI) based number guessing game where the computer randomly selects a number, and the player has to guess it within a limited number of attempts.
+This is a simple command-line interface (CLI) based number guessing game where the computer randomly selects a number, and the player has to guess it within a limited number of attempts. 
+You can find the specifics of this project in the following [link](https://roadmap.sh/projects/number-guessing-game).
 
 ## Game Description
 
